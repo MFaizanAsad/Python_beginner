@@ -3,6 +3,7 @@ Created on Tue Jun 11 21:46:35 2019
 
 @author: Faizan
 """
+# name of the cities are case sensitive in user_input
 capital_cities =["Helsinki","Islamabad","Delhi","Dhaka","Moscow","Washinton"]
 
 # A program using while loop with and setting a flag

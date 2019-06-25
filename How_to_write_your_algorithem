@@ -1,0 +1,24 @@
+# What helps to solve any problem?
+
+## Structure:
+
+1.1 Write out the task description in Jupyter. You may write down it in MarkDown or insert a range with problem description. Make sure you understand the terms.
+
+1.2 Write out PSEUDOCODE, this is a set of statements in human readable language feedback what (the program), should do.
+
+1.3 Structure or plan ( this should correspond to PSEUDOCODE) your implementation of the solution (Choices of i) class, ii) functions, methods, properties, iii) decorators, and iv) compulsory and optional arguments, and ); decide a big problem into smaller subproblems. You may use a graphical approach as well.
+
+## Implementation
+
+2.0 Re-utilize previously written code; you can start summing and abstracting methods which you have seen to need multiplies times
+
+2.1 Create skeletons for your method
+
+2.2 Write DOCSTRING for each function that explains how the fun words "Example docstring"
+
+2.3 Implement. Make sure to check inputs and outputs; chack the goal
+
+2.4 Test your solutions with extreme boundary cases as well
+
+** learn to use DEBUGGER and LOGGING library
+** Differentiate between Semantic errors and Syntactic

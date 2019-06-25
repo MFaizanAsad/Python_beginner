@@ -19,6 +19,7 @@
 2.3 Implement. Make sure to check inputs and outputs; chack the goal
 
 2.4 Test your solutions with extreme boundary cases as well
+2.5 If you have any problem at any point of the code go back the 1st part to check if there something wrong in logic, structure etc
 
 ** learn to use DEBUGGER and LOGGING library
 ** Differentiate between Semantic errors and Syntactic
